@@ -60,3 +60,4 @@ Animations: The page features smooth animations when you scroll, hover over elem
 📄 License
 This project is open-source and free to use. You are welcome to modify and distribute it for personal or educational use. If you decide to use parts of the code in your own projects, please give credit to the original author.
 
+Deployement : react-tailwind-css-animated-portfol.vercel.app
