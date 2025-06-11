@@ -28,7 +28,7 @@ export const Projects = () => {
     {
       title: "front-end dev",
       description: "Netflix clone",
-      imgUrl: projImg,
+      imgUrl: projImg1,
     },
     {
       title: "python",
